@@ -12,7 +12,7 @@ scala:
 jdk:
   - oraclejdk11
   - openjdk11
-  - oraclejdk10
+#  - oraclejdk10
   - openjdk10
   - oraclejdk9
   - openjdk9
